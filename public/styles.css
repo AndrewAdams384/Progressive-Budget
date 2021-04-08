@@ -1,7 +1,7 @@
 body {
   font-size: 120%;
   font-family: Arial;
-}
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);}
 
 button, input {
   font-size: 100%;
